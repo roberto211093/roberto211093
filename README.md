@@ -17,7 +17,7 @@ I have experience developing and maintaining mobile apps for **iOS and Android**
 - Experience publishing and maintaining apps on **App Store** and **Google Play**.
 - Strong focus on clean UI, API integrations, state management and user experience.
 - Interested in scalable architectures, automated testing, CI/CD and product-oriented development.
-- Currently improving my English and backend skills to grow as a more complete software developer.
+- Continuously improving my English communication and backend skills to grow as a more complete software developer.
 
 ## 🛠️ Tech Stack
 
