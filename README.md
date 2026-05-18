@@ -4,6 +4,13 @@ I'm a **Mobile & Frontend Developer** focused on building modern applications wi
 
 I have experience developing and maintaining mobile apps for **iOS and Android**, integrating APIs, improving user experience, and supporting the full app lifecycle: from development to deployment in stores.
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
 ## 🚀 About me
 
 - Mobile & Frontend Developer with experience in React Native and React.
@@ -66,6 +73,19 @@ My personal website where I present my professional experience, projects and con
 
 🔗 Website: https://www.rafaelacosta.cl
 
+### IndicatorsApp
+
+A React Native application that consumes financial indicators from the CMF Chile API.
+
+- React Native CLI
+- TypeScript
+- API integration
+- React Navigation
+- Custom hooks
+- Native module integration with NetInfo
+
+🔗 Repository: https://github.com/roberto211093/IndicatorsApp
+
 ## 🎯 Current Goals
 
 - Keep improving as a React Native and Frontend Developer.
@@ -78,6 +98,3 @@ My personal website where I present my professional experience, projects and con
 - Portfolio: https://www.rafaelacosta.cl
 - GitHub: https://github.com/roberto211093
 - LinkedIn: https://www.linkedin.com/in/rafael-acosta
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
